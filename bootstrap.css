@@ -1,0 +1,135 @@
+@font-face {
+    font-family: 'MyWebFont';
+    src: url('Connect/fonts/ionicons.eot'); /* IE9 Compat Modes */
+    src: url('Connect/fonts/ionicons.ttf') format('truetype'), /* IE6-IE8 */
+         url('Connect/fonts/ionicons.woff') format('woff'), /* IE6-IE8 */
+         url('Connect/fonts/ionicons.woff2') format('woff2'), /* Super Modern Browsers */
+         url('Connect/fonts/ionicons.svg') format('svg'); /* Super Modern Browsers */
+
+
+}
+
+body{
+    font-family: 'MyWebFont';
+}
+
+a{
+    text-decoration: none;
+}
+
+.central {
+    justify-content: center !important;
+}
+.ml-200{
+    margin-left: 200px;
+}
+
+
+.m80{
+    margin-top: 80px;
+}
+
+.m200{
+    margin-top: 200px;
+}
+
+.w72{
+    width: 72%;
+}
+
+.w60{
+    width: 60%;
+}
+
+
+li{
+    list-style-type: none;
+}
+
+.wrapperthird>ul>li>img{
+    width: 22px;
+}
+
+.wrapperthird>ul>li{
+    margin-top: 11px;
+    margin-left: -32px;
+}
+
+.wrapperfourth>ul>li>img{
+    width: 22px;
+}
+
+.wrapperfourth>ul>li{
+    margin-top: 11px;
+    margin-left: -32px;
+}
+
+
+
+.w55{
+    width: 55%;
+}
+
+.res1{
+    width: 60px;
+}
+
+
+
+
+
+.w50{
+    width: 50%;
+}
+
+.m100{
+    margin-top: 100px;
+}
+
+
+.pic{
+    width: 40%;
+}
+
+.w40{
+    width: 40%;
+}
+
+
+.signup{
+
+     border-radius: 0px 10px 10px 0px;
+     width: 150%;
+}
+
+.d-inline{
+    margin-right: 35px !important;
+}
+
+
+.logo{
+    width: 22px;
+    height: 20px;
+    margin-right: 5%;
+}
+
+
+.boxcard{
+    width: 10rem;
+}
+
+
+
+
+
+
+@media screen and (max-width: 768px) { 
+
+    .mt-md10{
+        margin-top:50px !important ;
+    }
+
+    
+
+
+}
