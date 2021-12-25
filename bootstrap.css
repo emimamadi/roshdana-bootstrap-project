@@ -121,6 +121,17 @@ li{
 
 
 
+@media screen and (min-width: 768px){
+
+    .invis{
+        visibility: visible;
+    }
+
+    .vis{
+        visibility: hidden;
+    }
+
+}
 
 
 @media screen and (max-width: 768px) { 
@@ -129,7 +140,13 @@ li{
         margin-top:50px !important ;
     }
 
-    
+    .invis{
+        display: none;
+    }
+
+    .vis{
+        visibility: visible !important;
+    }
 
 
 }
